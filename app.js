@@ -27,7 +27,7 @@
         amigos.splice(randomIndex, 1); // Eliminar el amigo seleccionado de la lista
         inyectarTextoElemento('#resultado', `Tu amigo secreto es: ${amigoSeleccionado}`);
         }else {
-        inyectarTextoElemento('#resultado', `No hay más amigos para seleccionar.`);
+        inyectarTextoElemento('#resultado', `No hay amigos para seleccionar.`);
         }
 
     /* if (!amigos.includes(amigoSeleccionado)) {
