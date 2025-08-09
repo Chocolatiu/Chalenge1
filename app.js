@@ -15,7 +15,7 @@ function agregarAmigo() {
 }
 
 function listaAmigos() {
-  const lista = document.getElementById("listaAmigos");
+  const lista = document.getElementById("resultado");
   lista.innerHTML = ""; // Limpiar la lista antes de mostrar los amigos
   for (let i = 0; i < amigos.length; i++){
     const li = document.createElement("li");
