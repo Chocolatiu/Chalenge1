@@ -67,7 +67,6 @@ Equipo  UX/UI de Alura Latam para el proyecto base. Luis Silva para el còdigo J
 * **Luis Silva / Chocolatiu** - *Trabajo Inicial* - [Chocolatiu](https://github.com/Chocolatiu)
 
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
 ## Licencia 📄
 
