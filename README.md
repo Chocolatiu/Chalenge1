@@ -19,7 +19,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 Un navegador web o VScode para explorar los archivos.
 
 ```
-_Da un ejemplo_
+_
 ```
 
 ### Instalación 🔧
@@ -36,39 +36,25 @@ Utiliza el live server de VS code para desplegar la pàgina.
 O si lo prefieres, solo haz doble click sobre el archivo index.html desde la carpeta de orìgen para desplegar la pàgina en tu navegador predeterminado y encuentra a tu amigo secreto.
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
 
 ## Ejecutando las pruebas ⚙️
 
 Para utilizar el programa solo introduce los nombres de tus amigos que quieran participar en una dinàmica del amigo secreto, introdùcelos mediante el botòn, y al final sortea el amigo secreto que le corresponda a cada quien.
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
+Aloja la pagina en un servidor web y experimenta el funcionamiento del programa.
 
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [VsCode](https://code.visualstudio.com//) - Editor de còdigo -
-* [Maven](https://git-scm.com/) - Versionador de còdigo -
-* [ROME](https://github.com/) - Usado para alojar y desplegar la pàgina mediante github pages -
+* [Git](https://git-scm.com/) - Versionador de còdigo -
+* [github](https://github.com/) - Usado para alojar y desplegar la pàgina mediante github pages -
 
 
 
