@@ -17,16 +17,12 @@ function agregarAmigo() {
 function listaAmigos() {
   const lista = document.getElementById("resultado");
   lista.innerHTML = ""; // Limpiar la lista antes de mostrar los amigos
-  for (let i = 0; i < amigos.length; i++){
+  for (let i = 0; i < amigos.length; i++) {
     const li = document.createElement("li");
-    li.textContent = amigos[i]; 
+    li.textContent = amigos[i];
     lista.appendChild(li);
-    
   }
-  
 }
-
-
 
 function amigoSorteado() {
   const randomIndex = Math.floor(Math.random() * amigos.length);

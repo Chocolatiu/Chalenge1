@@ -58,7 +58,7 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 900;
     font-style: italic;
-    color: var(color-secondary);
+    color: var(color-secondary)     ;
 }
 
 .section-title {
